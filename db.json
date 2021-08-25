@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Create a vue app",
+      "day": "August 25 at 1:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Check emails",
+      "day": "August 25 at 7:00 am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Refactor Android code",
+      "day": "August 25 at 7:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 49059,
+      "text": "Update Su casa app UI",
+      "day": "August 26 at 6:00 p.m",
+      "reminder": true
+    }
+  ]
+}
